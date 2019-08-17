@@ -1,2 +1,2 @@
 # terraform-labs
-Labs file for https://aks.ms/citadel/terraform  workshop.
+Lab files for https://aka.ms/citadel/terraform workshop.
